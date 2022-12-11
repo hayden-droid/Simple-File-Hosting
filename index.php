@@ -11,10 +11,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to My Uploading Site</title>
-	<meta name="description" content="A website developed under MPOP Reverse II.">
-	<meta property="og:title" content="MPOP Reverse II's File hosting">
-	<meta property="og:description" content="A simple website developed under MPOP Reverse II.">
+	<title>Welcome to Memeitizer Cloud Storage</title>
+	<meta name="description" content="A website developed by Memeitizer Limited.">
+	<meta property="og:title" content="Memeitizer Cloud Storage">
+	<meta property="og:description" content="A website developed by Memeitizer Limited.">
 	<meta name="viewport" content="width=device-width,initial-scale=1,minimal-ui">
 	<style type="text/css">
 		body{
@@ -37,7 +37,7 @@
 <body>
 	<div class="a">
 		<div class="a" style="margin: 5px;">
-			<h2>Welcome to MPOP Reverse II File Hosting</h2>
+			<h2>Welcome to Memeitizer Cloud Storage</h2>
 			<p style="cursor: pointer;" onclick="location.href='upload.php';">Upload a file:</p>	
 		</div>
 		<form align="center" method="get" style="margin-top: 10px; box-shadow: 0 0 0 transparent;">
